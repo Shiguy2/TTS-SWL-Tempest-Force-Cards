@@ -1,0 +1,32 @@
+"commands": [
+  {
+    "name": "Drive Them Out",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Drive-Them-Out.jpeg.webp",
+    "pip": 1
+  },
+  {
+    "name": "We Need Reinforcements",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/We-Need-Reinforcements.jpeg.webp",
+    "pip": 2
+  },
+  {
+    "name": "Constantly Alert",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Constantly-Alert.jpeg.webp",
+    "pip": 3
+  },
+  {
+    "name": "Gunner, Infantry",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Gunner-Infantry.jpeg.webp",
+    "pip": 1
+  },
+  {
+    "name": "Squadron On Me",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Squadron-On-Me.jpeg.webp",
+    "pip": 2
+  },
+  {
+    "name": "Armored Cavalry",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Armored-Cavalry.jpeg.webp",
+    "pip": 3
+  }
+]
