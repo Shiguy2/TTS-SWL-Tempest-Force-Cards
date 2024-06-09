@@ -1,0 +1,24 @@
+{
+  "units": {},
+  "upgrades": {},
+  "commands": {
+    "Generic": [
+{
+    "name": "Gunner, Infantry",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Gunner-Infantry.jpeg.webp",
+    "pip": 1
+  },
+  {
+    "name": "Squadron On Me",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Squadron-On-Me.jpeg.webp",
+    "pip": 2
+  },
+  {
+    "name": "Armored Cavalry",
+    "image": "https://thefifthtrooper.com/wp-content/uploads/2023/07/Armored-Cavalry.jpeg.webp",
+    "pip": 3
+  }    ],
+  
+  },
+  "battlefield": {}
+}
